@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PersistentStorage">
         <activity
+            android:name=".ThirdActivity"
+            android:exported="true" />
+        <activity
             android:name=".NotePage"
             android:exported="true" />
         <activity
